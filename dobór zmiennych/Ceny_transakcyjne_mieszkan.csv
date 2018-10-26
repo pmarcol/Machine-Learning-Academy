@@ -1,0 +1,991 @@
+Powierzchnia.m2;Dzielnica.;Odległość.od.centrum;Liczba.pokoi ;Piętro ;Rok.budowy.budynku ;Typ.własności.;Stan.mieszkania;Cena.m2
+17;Ochota;3,5;1;2;1960;hipoteczne;2;9,411
+20;Praga Płd.;5,8;1;NA;1956;hipoteczne;2;8
+29;Mokotów;4,2;1;1;1963;własnościowe;2;7,758
+32;Śródmieście;2,2;2;4;1977;hipoteczne;5;9,375
+36;Wola;6,4;2;6;1960;własnościowe;5;6,944
+37;Targówek;10,2;2;2;1970;własnościowe;4;6,756
+38;Praga Płd.;3,8;2;8;1980;własnościowe;5;7,105
+38;Śródmieście;1,5;2;5;1970;własnościowe;4;8,289
+38;Wola;1,7;2;8;1966;hipoteczne;2;7,763
+39;Wola;3,3;2;1;1950;hipoteczne;4;7
+44;Praga Płd.;4,5;2;3;2002;hipoteczne;5;10,227
+47;Żoliborz;5,5;2;3;1963;własnościowe;4;9,446
+47;Targówek;10,3;3;3;1968;własnościowe;2;5,68
+49;Praga Płn.;2,2;3;2;1979;własnościowe;4;7,244
+49;Ursynów;11,7;3;4;2001;hipoteczne;5;9,897
+49;Wola;6,9;3;NA;1965;własnościowe;2;6,122
+50;Praga Płd.;5,9;2;4;1980;hipoteczne;2;5,8
+52;Ursynów;9,6;3;3;1980;własnościowe;4;8,057
+65;Ochota;5,6;2;5;2008;hipoteczne;3;8,076
+83;Ursynów;11,1;4;NA;2000;hipoteczne;5;7,698
+25;Śródmieście;3;1;3;1960;własnościowe;2;9,4
+27;Mokotów;6,4;1;5;1974;własnościowe;2;7,518
+27;Wola;3,7;1;NA;1969;hipoteczne;4;7,87
+28;Żoliborz;5,2;1;2;1946;własnościowe;4;9,178
+35;Śródmieście;2,2;2;1;1970;hipoteczne;4;8,228
+37;Mokotów;3,1;2;5;1967;własnościowe;5;10
+37;Żoliborz;5,3;1;1;1957;hipoteczne;2;7,432
+38;Praga Płd.;3,8;2;1;1970;własnościowe;4;7,868
+47;Praga Płd.;5,2;2;2;1963;hipoteczne;2;6,021
+50;Wola;4,6;2;5;1999;własnościowe;5;7,8
+51;Bemowo;8;2;7;1976;własnościowe;4;5,98
+51;Bemowo;8;2;1;1993;hipoteczne;4;6,176
+56;Wilanów;6,9;2;2;2008;hipoteczne;5;7,142
+61;Praga Płd.;3,4;2;2;1938;hipoteczne;2;9,377
+66;Żoliborz;5,6;3;5;1981;własnościowe;4;7,651
+67;Białołęka;12,9;3;2;2001;hipoteczne;5;6,119
+82;Praga Płd.;3,4;4;NA;1936;hipoteczne;2;10,304
+29;Śródmieście;NA;1;4;1954;brak;4;6,206
+31;Bemowo;8,4;2;3;1985;spół.wł.;4;7,741
+33;Żoliborz;3,8;1;2;1956;hipoteczne;5;10,303
+34;Śródmieście;NA;1;1;1970;brak;4;10,882
+35;Śródmieście;1,1;1;2;1953;hipoteczne;2;10,142
+36;Śródmieście;1;2;4;1965;spół.wł.;2;8,583
+46;Mokotów;7,1;2;NA;1980;spół.wł.;4;6,695
+46;Bemowo;6,4;2;8;1970;spół.wł.;5;6,739
+47;Praga Płd.;NA;3;8;1967;brak;4;6,702
+48;Praga Płd.;7,1;2;3;1994;spół.wł.;5;9,27
+49;Śródmieście;2,6;3;7;1979;spół.wł.;4;7,755
+49;Bielany;7,4;3;2;1969;spół.wł.;2;6,53
+50;Bemowo;8;2;NA;1976;spół.wł.;5;6,1
+52;Wilanów;7,6;2;2;1978;spół.wł.;NA;6,538
+55;Śródmieście;0,5;2;3;1957;hipoteczne;2;8
+56;Mokotów;7;3;1;1975;spół.wł.;4;6,357
+58;Ursynów;9,3;3;NA;1986;spół.wł.;2;6,896
+60;Bemowo;8,5;3;2;1982;hipoteczne;5;6,5
+24;Bielany;9,6;1;3;1966;hipoteczne;2;6,916
+27;Bielany;8,2;1;10;1975;spół.wł.;4;8,814
+27;Wola;2,1;1;5;1970;spół.wł.;5;8,814
+27;Śródmieście;2,2;1;4;1980;spół.wł.;4;7,037
+30;Żoliborz;5,3;1;12;1968;spół.wł.;4;7
+35;Praga Płd.;3,8;2;4;1959;hipoteczne;4;8,857
+37;Praga Płn.;5,4;2;6;1952;hipoteczne;4;7,005
+38;Wilanów;9,7;1;2;2009;brak;5;7,868
+41;Bielany;7,1;2;1;1959;hipoteczne;5;9,024
+42;Ursynów;9,1;2;1;1978;spół.wł.;4;7,38
+43;Ursynów;12,1;2;7;2001;spół.wł.;4;8,186
+44;Białołęka;15,4;2;4;1999;hipoteczne;5;6,59
+44;Praga Płd.;7,3;2;11;1988;hipoteczne;5;7,25
+46;Mokotów;7;2;10;1978;spół.wł.;4;6,673
+47;Praga Płd.;2,7;2;5;1957;hipoteczne;2;8,617
+47;Praga Płd.;3,7;3;8;1967;brak;4;6,702
+48;Praga Płd.;6,3;3;2;1970;brak;2;6,25
+51;Bemowo;8,4;2;3;1995;spół.wł.;2;5,784
+51;Rembertów;13,3;2;NA;2004;hipoteczne;5;6,764
+53;Ursynów;13,2;2;3;2004;spół.wł.;5;9,433
+61;Targówek;8,1;3;5;1979;spół.wł.;5;5,77
+63;Śródmieście;2,1;2;6;1920;hipoteczne;2;7,063
+64;Mokotów;6,7;3;4;1970;spół.wł.;5;7,109
+19;Wola;0,6;1;3;1968;spół.wł.;2;10,105
+20;Ochota;3,4;1;3;1950;hipoteczne;4;10
+24;Śródmieście;1,7;1;5;1975;spół.wł.;2;9,166
+24;Bielany;9;1;4;1970;hipoteczne;5;7,916
+27;Śródmieście;2,6;2;5;1967;spół.wł.;2;8,296
+28;Mokotów;2,6;1;3;1968;spół.wł.;5;9,821
+29;Targówek;6,9;1;3;1996;spół.wł.;5;8,965
+29;Praga Płd.;2,7;1;6;1970;spół.wł.;2;7,413
+31;Mokotów;7,6;1;5;1975;spół.wł.;5;7,741
+31;Mokotów;7;1;10;1975;spół.wł.;4;7,741
+32;Śródmieście;3,6;1;9;2006;hipoteczne;5;12,893
+37;Śródmieście;2,2;1;6;1955;hipoteczne;2;7,77
+38;Bielany;6,9;2;4;1976;spół.wł.;2;7,21
+38;Żoliborz;5,9;2;1;1968;spół.wł.;2;8,026
+39;Bemowo;7,5;2;3;2003;hipoteczne;4;9,487
+40;Mokotów;5,3;3;5;1950;hipoteczne;5;10,625
+46;Targówek;10,5;2;NA;1975;spół.wł.;4;5,543
+48;Ursynów;10,5;2;4;1980;spółdzielcze;4;7,166
+48;Bielany;8,4;2;3;1953;hipoteczne;4;8,291
+52;Ursynów;11,2;2;6;2001;spółdzielcze;4;7,836
+54;Bielany;8,2;2;2;1938;hipoteczne;5;6,833
+54;Mokotów;6,2;2;12;1979;spół.wł.;4;6,018
+54;Bemowo;8,8;2;2;1999;spół.wł.;5;8,055
+58;Ursynów;11,7;3;2;1983;spółdzielcze;2;6,465
+59;Praga Płd.;6;3;3;1979;hipoteczne;2;6,101
+63;Wilanów;9,7;2;NA;2006;hipoteczne;3;7,936
+65;Mokotów;5,4;3;5;1958;spół.wł.;4;9,495
+66;Mokotów;6;3;2;1975;spółdzielcze;4;7,121
+70;Bielany;8,9;3;2;1980;spółdzielcze;4;6,614
+70;Ursus;9,9;3;4;2005;hipoteczne;3;5,957
+70;Bemowo;8,8;3;2;2008;hipoteczne;3;7,342
+70;Ursynów;9,3;4;2;1984;spółdzielcze;2;6,857
+74;Śródmieście;0,6;3;2;1925;hipoteczne;4;9,121
+78;Śródmieście;1;3;3;NA;hipoteczne;5;9,615
+80;Ursynów;9,5;3;1;1997;spół.wł.;5;8,902
+81;Bemowo;7,5;2;5;2007;hipoteczne;5;9,629
+83;Włochy;8,5;4;3;2001;hipoteczne;5;6,927
+97;Wilanów;6,9;4;4;2008;hipoteczne;3;7,216
+122;Ursynów;10,8;5;3;2007;hipoteczne;5;9,016
+141;Śródmieście;3,6;4;8;2007;hipoteczne;3;8,496
+31;Ursynów;12,1;1;3;1998;spółdzielcze;5;10,322
+31;Mokotów;7,2;1;7;1995;własnościowe;4;6,129
+32;Śródmieście;2,9;2;2;1920;hipoteczne;5;18,906
+32;Białołęka;13,1;1;6;1988;spółdzielcze;2;5,937
+33;Śródmieście;3,4;1;1;2007;hipoteczne;5;12,121
+35;Bielany;7,2;2;4;1967;spół.wł.;2;7,657
+36;Ochota;4;2;2;1975;hipoteczne;4;7,5
+38;Wola;6,1;2;1;1962;hipoteczne;4;7,078
+39;Praga Płd.;5,3;2;5;2008;spół.wł.;5;8,846
+41;Bielany;7,2;2;2;1972;spół.wł.;4;6,829
+42;Bielany;6,3;2;8;1973;hipoteczne;4;7,857
+43;Praga Płd.;7,3;2;15;1980;spół.wł.;4;6,674
+43;Bielany;8,6;2;10;1974;spół.wł.;4;6,604
+45;Białołęka;14,9;2;3;2000;hipoteczne;4;6,666
+45;Ursynów;11,7;2;8;2000;spółdzielcze;5;8,622
+46;Bielany;7,3;2;5;1970;spół.wł.;4;6,956
+48;Białołęka;15,4;2;NA;2000;hipoteczne;5;7,5
+50;Śródmieście;0,9;2;3;1950;hipoteczne;5;11
+50;Śródmieście;2;2;3;1946;hipoteczne;4;12,52
+52;Ursynów;10,8;2;9;1999;spół.wł.;4;9,423
+52;Żoliborz;3,8;2;4;2002;hipoteczne;5;9,615
+62;Ursynów;13,1;2;4;2000;spółdzielcze;2;8,467
+68;Ursynów;12,8;3;4;2002;hipoteczne;5;10,441
+77;Bemowo;8,7;3;1;2007;hipoteczne;3;7,792
+78;Mokotów;8;3;6;2004;hipoteczne;5;11,089
+81;Praga Płd.;6,4;3;4;2000;spółdzielcze;5;9,135
+83;Śródmieście;1,4;3;6;1962;hipoteczne;2;10,843
+93;Wola;1,7;4;5;2007;hipoteczne;3;9,739
+98;Ursynów;9,7;3;6;2005;hipoteczne;5;8,418
+100;Białołęka;10,7;4;3;2004;hipoteczne;5;6,99
+36;Mokotów;6,9;1;7;2003;brak;5;10
+36;Ochota;3,5;2;6;1957;brak;4;8,472
+37;Praga Płd.;5,6;2;5;2001;hipoteczne;4;7,918
+39;Praga Płd.;3,8;2;9;1970;hipoteczne;5;7,692
+39;Praga Płd.;5,2;2;10;2003;hipoteczne;5;9,307
+41;Bielany;9,5;2;10;1978;spółdzielcze;5;7,317
+45;Praga Płd.;3,8;3;10;1970;hipoteczne;4;7,333
+45;Bielany;7;2;10;1983;spół.wł.;4;6,333
+45;Bielany;3,4;2;5;1948;hipoteczne;4;7,511
+46;Praga Płd.;6,9;2;10;1978;spół.wł.;2;6,086
+46;Mokotów;5,6;2;16;2008;hipoteczne;3;9,891
+49;Śródmieście;2,1;2;5;1959;spół.wł.;5;11,938
+50;Bielany;9,1;3;10;1975;spółdzielcze;4;7
+50;Śródmieście;2,2;2;5;1932;hipoteczne;4;12
+50;Śródmieście;0,7;2;5;1960;hipoteczne;5;9,2
+51;Rembertów;13,3;2;3;2005;hipoteczne;5;7,058
+53;Mokotów;3,4;2;4;1936;hipoteczne;2;9,433
+53;Śródmieście;0,9;1;4;1938;hipoteczne;4;6,037
+55;Mokotów;7,3;3;3;1974;spół.wł.;2;7,181
+55;Ursynów;13,1;2;4;2002;hipoteczne;5;9,636
+57;Mokotów;6,8;3;15;1978;spółdzielcze;4;6,701
+57;Wola;2,3;2;15;2005;hipoteczne;5;11,228
+60;Bemowo;8,6;3;11;1983;brak;2;6,166
+64;Bielany;7,2;3;4;1992;brak;4;7,421
+69;Ursynów;11,9;3;10;1982;spółdzielcze;4;6,086
+69;Białołęka;14,9;3;3;2001;hipoteczne;5;6,521
+70;Mokotów;3,5;2;4;1938;hipoteczne;4;8
+74;Ursynów;10,9;3;8;2006;spółdzielcze;5;9,75
+78;Targówek;9;3;2;1999;hipoteczne;4;7,435
+79;Śródmieście;2,9;3;3;1950;hipoteczne;5;17,088
+94;Mokotów;7,4;2;3;2001;brak;5;8,457
+122;Śródmieście;1,7;4;4;1932;hipoteczne;2;10,901
+169;Śródmieście;1,7;6;6;2002;brak;5;6,775
+29,62;Praga Płd.;5,6;1;NA;1927;hipoteczne;4;5,739
+32;Żoliborz;4,1;1;4;1936;spółdzielcze;2;7,812
+36;Wola;2,9;2;2;1964;hipoteczne;2;7,222
+37;Praga Płd.;3,8;2;9;1970;spółdzielcze;2;7,297
+37,5;Wola;1,7;2;9;1969;spółdzielcze;4;8,64
+37,91;Targówek;8;2;NA;2005;hipoteczne;5;7,649
+41;Żoliborz;6,3;2;8;1974;spółdzielcze;4;6,707
+45;Wola;3,8;2;6;1968;hipoteczne;4;7,111
+45;Śródmieście;1,2;2;4;1950;spółdzielcze;4;11
+46;Praga Płn.;5,6;2;3;1953;hipoteczne;2;5,652
+46;Praga Płd.;3,8;3;7;1970;hipoteczne;4;6,956
+48;Białołęka;15,4;2;3;2001;hipoteczne;5;6,145
+64;Mokotów;6,7;3;7;1993;spółdzielcze;4;6,25
+71;Wola;4,3;3;NA;1960;hipoteczne;2;6,295
+71,69;Wilanów;9,8;3;NA;2008;hipoteczne;5;7,323
+74,2;Ursynów;12,2;4;2;1987;spółdzielcze;5;7,412
+117,9;Ursynów;10,8;4;2;2001;spółdzielcze;5;8,227
+135;Ursynów;10,9;4;NA;2001;hipoteczne;5;9,629
+31;Bielany;6,8;1;4;1980;hipoteczne;4;7,806
+32;Śródmieście;0,45;1;2;1960;własnościowe;4;10,468
+33,8;Białołęka;11,4;1;NA;2005;hipoteczne;2;6,39
+36,4;Ursynów;10;1;6;2004;spół.wł.;5;9,478
+37;Praga Płd.;5,1;2;3;1978;spółdzielcze;5;8,918
+38;Żoliborz;6,3;2;6;1966;spółdzielcze;4;7,763
+38;Żoliborz;5,5;2;4;1962;spółdzielcze;4;8,684
+38;Ochota;5,6;2;1;2002;hipoteczne;5;9,736
+39;Śródmieście;1,3;2;9;1970;spół.wł.;4;8,794
+43;Śródmieście;1,7;2;2;1970;hipoteczne;2;8,372
+46;Śródmieście;2,6;2;2;1960;hipoteczne;2;7,119
+47;Praga Płn.;5,9;2;3;2003;hipoteczne;5;6,127
+48;Ursynów;12,8;2;1;2002;spółdzielcze;4;9,583
+49;Ochota;2,8;2;3;1952;hipoteczne;5;10,408
+49,9;Bemowo;6,4;3;8;1973;spółdzielcze;4;6,613
+50;Mokotów;4,1;3;1;1951;hipoteczne;4;9,25
+52;Białołęka;11,4;2;3;2006;hipoteczne;5;7,192
+60;Bemowo;7,8;3;1;1989;spółdzielcze;2;5,416
+70;Wola;3,3;3;7;2002;spółdzielcze;4;9,642
+72,7;Ursynów;12,8;3;5;2003;hipoteczne;4;10,832
+76;Ursus;8,7;3;1;2006;hipoteczne;5;7,236
+77;Żoliborz;4,9;3;2;1988;hipoteczne;5;7,792
+87;Śródmieście;1;5;1;1930;spółdzielcze;2;15,517
+92;Ursynów;10,8;3;3;2003;własnościowe;5;9,369
+96;Bemowo;8,3;4;10;1969;spółdzielcze;4;5,656
+108,3;Ursynów;10,3;4;NA;2001;hipoteczne;4;8,541
+140;Ursynów;12,6;4;1;2002;spółdzielcze;5;10,142
+15;Ochota;3,5;1;NA;1964;hipoteczne;2;10,2
+23;Wola;3,4;1;2;1963;spół.wł.;2;8,13
+24;Praga Płd.;6,2;1;3;1965;hipoteczne;5;8,333
+24;Wola;6,1;1;1;1975;spół.wł.;4;7,291
+24;Ochota;4,4;1;2;1970;spółdzielcze;2;7,437
+34;Wola;3,8;2;3;1967;spół.wł.;2;6,764
+34;Białołęka;15,4;1;2;2004;hipoteczne;5;7,5
+35;Wola;2,3;1;19;2005;hipoteczne;4;11
+36;Śródmieście;2;1;6;1960;spół.wł.;5;8,75
+37;Praga Płn.;5,3;2;3;1970;spół.wł.;4;7
+37;Rembertów;11,6;1;2;2008;hipoteczne;3;7,027
+37;Mokotów;4,2;2;7;1972;hipoteczne;2;7,027
+37;Żoliborz;4,3;2;3;1968;hipoteczne;2;8,621
+38;Żoliborz;6,3;2;2;1964;spółdzielcze;4;8,947
+46;Rembertów;11,6;2;NA;2008;hipoteczne;3;6,782
+47;Białołęka;14,8;2;5;2004;hipoteczne;4;7,808
+48;Mokotów;4,1;2;1;2008;hipoteczne;5;14,583
+48;Bemowo;10,2;2;2;2001;hipoteczne;5;9,895
+48;Białołęka;12,9;2;1;2007;hipoteczne;3;6,354
+49;Wola;6,9;2;NA;2008;hipoteczne;3;8,061
+53;Białołęka;15,4;2;NA;2001;hipoteczne;4;6,981
+54;Bielany;6,6;3;14;1978;spółdzielcze;4;7,037
+56;Bemowo;8,7;3;2;2003;hipoteczne;5;9,142
+57;Śródmieście;2;2;4;1939;hipoteczne;5;9,122
+59;Białołęka;9,8;2;3;2008;hipoteczne;5;8,128
+68;Mokotów;4,9;3;6;2001;hipoteczne;5;15,367
+71;Białołęka;9,8;3;2;2008;hipoteczne;2;7,394
+78;Ursynów;12,9;3;3;2001;hipoteczne;4;8,205
+80;Praga Płd.;5,6;3;3;1932;hipoteczne;5;5
+97;Mokotów;3,7;3;5;2007;hipoteczne;3;13,814
+100;Białołęka;13,6;4;NA;2001;hipoteczne;3;4,87
+100;Śródmieście;1,9;3;3;2007;hipoteczne;5;13,5
+140;Mokotów;4,5;4;8;2006;hipoteczne;5;9,642
+220;Żoliborz;5,1;9;1;1928;hipoteczne;4;12,59
+27;Wola;2,6;1;6;1970;spółdzielcze;4;7,962
+29;Śródmieście;2,4;1;10;1970;spółdzielcze;4;8,275
+30;Żoliborz;5,3;1;2;1947;spółdzielcze;5;9,833
+30;Bielany;9,5;1;7;2000;hipoteczne;5;9,5
+31;Mokotów;6,7;1;2;1976;spółdzielcze;5;8,709
+35;Białołęka;14,8;1;8;2005;hipoteczne;4;6,428
+36;Białołęka;15,4;1;4;2002;hipoteczne;5;7,222
+40;Śródmieście;2,2;2;2;1957;hipoteczne;2;10,625
+46;Żoliborz;6,5;3;4;1966;spółdzielcze;5;8,456
+46;Praga Płn.;4,4;2;2;1930;hipoteczne;5;8,804
+47;Śródmieście;2,6;2;NA;1956;hipoteczne;5;8,936
+52;Mokotów;5,6;2;NA;1991;hipoteczne;4;8,98
+53;Wilanów;9,7;2;1;2005;hipoteczne;5;9,905
+55;Bielany;7,9;3;9;1980;spółdzielcze;5;6,218
+75;Wawer;16,9;3;NA;2008;hipoteczne;3;6,8
+85;Wesoła;15,5;4;2;1998;hipoteczne;5;6,352
+103;Śródmieście;1,9;4;2;2005;hipoteczne;5;18,495
+111;Mokotów;3,5;3;2;2006;hipoteczne;3;10,612
+111;Ochota;2,6;4;2;1927;hipoteczne;5;11,081
+116;Mokotów;6,7;4;NA;2007;spółdzielcze;3;7,284
+135;Praga Płd.;7,7;4;3;1996;hipoteczne;5;6,777
+27;Bielany;9;1;4;1966;spółdzielcze;2;7,222
+28;Targówek;9,3;1;NA;1973;hipoteczne;2;7
+28,65;Włochy;8,6;1;NA;1932;hipoteczne;4;6,806
+31,5;Białołęka;16,2;1;7;2003;hipoteczne;5;8,476
+31,5;Mokotów;6,5;1;10;1978;spółdzielcze;4;7,079
+32,14;Bielany;6,6;1;20;1989;spółdzielcze;4;8,058
+33,2;Mokotów;7,3;1;10;1978;spółdzielcze;4;7,409
+33,8;Mokotów;5;2;4;1962;hipoteczne;4;9,763
+35,4;Mokotów;3,1;2;10;1973;spółdzielcze;5;10,169
+37,93;Mokotów;5,5;2;10;1958;spółdzielcze;5;8,673
+37,93;Mokotów;5,5;2;10;1968;spółdzielcze;2;7,645
+38;Białołęka;15,9;2;7;2004;hipoteczne;5;8,289
+38,97;Śródmieście;2;2;4;1969;spółdzielcze;4;7,441
+39;Mokotów;5,8;2;10;1972;spółdzielcze;4;8,23
+40;Śródmieście;2,1;2;15;1967;spółdzielcze;5;9,725
+40;Śródmieście;2,6;1;11;2001;hipoteczne;5;11,94
+41,8;Białołęka;15,4;2;NA;2000;hipoteczne;4;7,177
+42,3;Mokotów;6,7;2;10;1975;spółdzielcze;4;7,494
+42,4;Ursynów;10,1;2;11;1981;spółdzielcze;5;8,419
+45,1;Bemowo;8,8;2;3;2000;hipoteczne;5;9,423
+45,5;Śródmieście;1,4;3;4;1966;spółdzielcze;4;10,989
+46,3;Mokotów;5,5;2;17;1978;hipoteczne;5;8,747
+47;Mokotów;7;2;10;1980;spółdzielcze;4;8,723
+47;Ursynów;11,9;2;10;1986;spółdzielcze;4;8,489
+48,3;Bielany;6,5;2;3;1969;spółdzielcze;4;8,343
+48,41;Praga Płd.;3,6;2;2;1950;hipoteczne;2;9,502
+49;Bielany;9,3;2;11;1980;spółdzielcze;4;7,244
+49;Ursynów;9,7;2;4;1982;spółdzielcze;2;6,693
+50,53;Wawer;10,4;2;NA;2002;hipoteczne;5;7,361
+52;Włochy;8,1;2;NA;2005;hipoteczne;5;9,615
+53,65;Ochota;8,1;2;5;2006;hipoteczne;5;8,76
+54;Mokotów;4,4;2;NA;1956;hipoteczne;NA;8,24
+56;Żoliborz;6,3;3;NA;1970;spółdzielcze;4;7,392
+56;Mokotów;7;3;10;1976;spółdzielcze;4;7,142
+61;Wola;2,6;3;5;1951;hipoteczne;2;8,196
+66;Śródmieście;1,5;2;6;1932;hipoteczne;4;13,03
+70,5;Ursus;9,2;3;4;2002;hipoteczne;5;8,226
+73;Ursynów;12,8;3;5;2003;hipoteczne;4;8,972
+74,66;Bielany;10,7;3;3;2008;hipoteczne;3;7,232
+75;Mokotów;4,2;3;3;1935;hipoteczne;5;6,213
+75;Mokotów;5,6;3;8;2007;hipoteczne;3;8,546
+86;Śródmieście;3,6;3;14;2006;hipoteczne;5;13,953
+90;Praga Płd.;8,1;4;5;2000;spółdzielcze;5;8,666
+118;Mokotów;3,9;4;7;2004;hipoteczne;5;13,135
+38;Śródmieście;0,7;2;5;1965;spółdzielcze;2;7,447
+39;Wola;2,1;2;4;1971;spółdzielcze;4;7,897
+39;Praga Płd.;3,7;2;3;1960;hipoteczne;2;8,025
+43;Mokotów;3,9;2;3;1950;spółdzielcze;5;9,767
+44;Praga Płd.;5,6;3;4;1967;hipoteczne;2;6,931
+46;Śródmieście;0,5;3;2;1970;hipoteczne;5;9,434
+50;Mokotów;6,7;2;5;1993;spółdzielcze;4;7,54
+53;Mokotów;6,7;3;2;1974;spółdzielcze;5;7,358
+53;Mokotów;7,5;3;1;1974;spółdzielcze;4;6,981
+57;Mokotów;4,5;2;4;1952;hipoteczne;5;9,35
+59;Bemowo;8,8;3;2;2005;hipoteczne;5;8,644
+59;Praga Płn.;NA;2;1;2006;hipoteczne;4;6,186
+63;Mokotów;6,7;3;4;1974;spółdzielcze;5;7,142
+70;Mokotów;4;3;2;1938;hipoteczne;4;10,285
+73;Mokotów;4,8;3;3;2007;hipoteczne;3;8,863
+87;Mokotów;4,2;4;3;1992;spółdzielcze;4;6,873
+93;Mokotów;4,6;4;5;2003;hipoteczne;5;10,258
+26;Śródmieście;2,6;1;3;1970;spółdzielcze;5;9,153
+27;Białołęka;14,9;1;2;2008;hipoteczne;3;6,17
+27;Wola;2,2;1;4;1968;spółdzielcze;2;7,592
+28;Mokotów;6,7;1;4;1962;hipoteczne;2;8,035
+29;Praga Płd.;5,4;1;5;1958;hipoteczne;4;7,413
+30;Wola;2,6;1;2;1954;hipoteczne;4;9
+33;Wola;2,6;1;2;1956;hipoteczne;2;7,363
+34;Mokotów;5;2;4;1965;spółdzielcze;4;7,941
+34;Ochota;3,4;1;NA;1960;hipoteczne;2;7,647
+35;Białołęka;13,8;2;3;2004;hipoteczne;5;8,542
+36;Śródmieście;2,1;1;1;1967;spółdzielcze;4;8,555
+37;Mokotów;3,9;2;3;1965;spółdzielcze;2;7,837
+38;Wola;2,4;2;3;1969;spółdzielcze;3;8,157
+38;Wola;4,7;2;14;1977;spółdzielcze;5;8,157
+38;Bielany;10,7;2;NA;2000;hipoteczne;4;8,552
+40;Ursynów;12,8;2;3;1991;spółdzielcze;5;9,125
+41;Ursynów;12,7;1;1;2000;spółdzielcze;4;10,487
+41;Ursynów;10,8;2;4;2002;hipoteczne;5;10,585
+42;Mokotów;5,3;2;2;1958;hipoteczne;2;9,047
+42;Śródmieście;0,9;2;1;1950;hipoteczne;5;19,404
+45;Mokotów;7,1;2;6;1977;spółdzielcze;2;7,333
+47;Ursynów;12,8;2;1;2002;spółdzielcze;4;10,638
+51;Mokotów;1,4;2;15;2007;hipoteczne;3;9,254
+51;Mokotów;5,6;2;15;2007;hipoteczne;3;9,254
+55;Wola;3,2;3;1;1963;hipoteczne;5;10,09
+55;Śródmieście;0,65;3;2;1960;hipoteczne;4;9,654
+56;Mokotów;4,8;2;4;2007;hipoteczne;3;9,464
+56;Mokotów;7;3;1;1980;spółdzielcze;4;8,214
+57;Żoliborz;6,3;3;9;1975;spółdzielcze;2;7,017
+59;Praga Płd.;5,8;3;NA;1956;hipoteczne;5;7,016
+60;Praga Płd.;3,9;2;1;1946;hipoteczne;2;11,166
+64;Mokotów;3,5;2;4;1950;hipoteczne;5;8,125
+74;Ursynów;12,1;3;3;2003;spółdzielcze;4;9,729
+78;Ursynów;11,5;3;NA;2001;hipoteczne;5;7,91
+78;Ursynów;12,8;3;2;2000;spółdzielcze;4;9,217
+84;Śródmieście;0,45;4;1;1991;spółdzielcze;5;13,273
+152;Praga Płd.;3,2;5;4;1928;hipoteczne;3;10,526
+17,35;Wola;2,1;1;16;1971;spółdzielcze;4;10,317
+24;Wola;6,4;1;9;1964;spółdzielcze;4;9,291
+26;Mokotów;3,6;1;NA;1938;hipoteczne;5;9,423
+27;Żoliborz;6,3;1;2;1975;spółdzielcze;2;7,851
+28;Włochy;8,3;2;1;1938;brak;3;8,464
+30,9;Białołęka;15,4;2;2;2002;hipoteczne;5;8,381
+31;Targówek;10;1;NA;2007;hipoteczne;NA;10,096
+31;Ursynów;10,7;1;1;1979;spółdzielcze;2;7,741
+32;Białołęka;14,6;1;1;2000;hipoteczne;NA;8,062
+33,08;Bielany;10;1;8;2000;hipoteczne;4;9,159
+34;Ursynów;10,8;1;4;2002;spółdzielcze;NA;9,617
+34;Ochota;3,4;1;NA;1960;hipoteczne;2;7,647
+34;Mokotów;5;2;4;1965;spółdzielcze;4;7,941
+34;Mokotów;3,9;1;1;1952;hipoteczne;2;8,941
+36;Śródmieście;2,2;1;3;1951;hipoteczne;2;8,611
+37;Mokotów;3,9;2;3;1965;spółdzielcze;2;7,837
+38;Praga Płd.;6,1;1;3;1950;hipoteczne;4;5,842
+40;Ursynów;12,8;2;3;1991;spółdzielcze;5;9,125
+42;Mokotów;6,7;2;1;1974;spółdzielcze;4;7,619
+42;Śródmieście;3,6;2;6;2007;brak;3;11,904
+42,5;Mokotów;3,7;2;2;1949;spółdzielcze;5;10,352
+43;Śródmieście;2,8;2;1;1949;hipoteczne;4;9,767
+43,57;Białołęka;13,1;2;5;2005;hipoteczne;5;7,803
+45;Praga Płd.;7,1;2;14;1974;spółdzielcze;2;6
+46,2;Białołęka;14,9;2;1;2002;hipoteczne;5;7,359
+47,15;Praga Płd.;7,1;2;1;1958;hipoteczne;2;6
+49;Wola;4,3;2;2;1950;hipoteczne;5;7,755
+49;Bielany;8,2;2;1;1939;hipoteczne;4;8,551
+50;Mokotów;7,2;3;NA;1980;spółdzielcze;4;7
+53,3;Śródmieście;4,4;2;2;1938;hipoteczne;5;10,694
+55;Wilanów;9,7;2;1;2008;hipoteczne;5;8,581
+55;Bielany;7,7;3;4;1970;spółdzielcze;NA;6,69
+56;Mokotów;4,8;2;4;2007;hipoteczne;3;9,464
+57;Żoliborz;4,1;2;3;1923;hipoteczne;4;9,157
+57;Żoliborz;6,3;3;9;1975;spółdzielcze;2;7,017
+57;Mokotów;3,9;2;2;1959;spółdzielcze;2;8,631
+58;Mokotów;4,2;2;NA;2007;brak;3;10,689
+64;Praga Płn.;5,5;3;4;1993;hipoteczne;NA;6,328
+64;Wola;0,6;3;NA;1931;hipoteczne;5;9,218
+66;Mokotów;7,2;3;1;1976;spółdzielcze;4;7,424
+68;Śródmieście;3,4;2;2;2004;hipoteczne;5;12,573
+70;Praga Płd.;6,3;3;3;1993;spółdzielcze;NA;7,5
+73,4;Bielany;6,5;3;8;2001;hipoteczne;4;9,128
+91;Mokotów;5,1;3;5;2001;brak;5;13,076
+101;Ursynów;10,8;4;3;2001;spółdzielcze;5;10,891
+110;Mokotów;6;4;4;1994;brak;4;7,363
+110;Wola;3,2;4;4;1990;brak;5;8,745
+116,1;Żoliborz;3,8;4;2;2003;hipoteczne;5;16,365
+117;Ursynów;12,6;4;1;2002;hipoteczne;5;11,111
+135;Wilanów;8,8;5;1;2005;brak;5;15,185
+135;Mokotów;4,3;3;1;1930;hipoteczne;4;15,555
+144;Ochota;5;5;1;2001;hipoteczne;4;11,458
+190;Mokotów;5,7;5;3;2007;hipoteczne;3;13,157
+20;Praga Płn.;5,6;1;2;1960;hipoteczne;2;8,35
+28;Praga Płd.;5,2;1;8;1970;spółdzielcze;4;8,421
+31;Praga Płd.;7,4;1;8;1986;hipoteczne;4;7,142
+34;Praga Płd.;2,7;2;5;1964;hipoteczne;5;8,382
+35;Śródmieście;0,75;2;5;1967;hipoteczne;4;8,734
+35;Mokotów;7,1;1;9;1980;spółdzielcze;4;8,607
+35;Ursus;9,9;2;2;1966;spółdzielcze;2;6,285
+36;Śródmieście;1;2;1;1970;hipoteczne;2;10,444
+37;Wola;2,1;2;4;1970;spółdzielcze;4;7,432
+37;Mokotów;5,7;2;5;1970;spółdzielcze;2;7,567
+38;Mokotów;5,9;2;4;1970;spółdzielcze;4;7,428
+38;Bielany;8,2;2;8;1963;spółdzielcze;2;7,473
+38;Mokotów;6,4;2;8;1978;hipoteczne;2;7
+39;Śródmieście;0,16;2;12;1975;spółdzielcze;4;9,615
+40;Śródmieście;2,6;1;4;1950;hipoteczne;NA;8
+41;Wola;2,4;2;2;1950;brak;4;10
+42;Ursynów;10,1;2;1;1982;spółdzielcze;4;8,523
+43;Białołęka;15,4;2;7;2002;hipoteczne;4;6,947
+44;Białołęka;15,4;2;1;2003;hipoteczne;5;7,931
+45;Wola;3;2;3;1953;hipoteczne;4;8,555
+45;Żoliborz;4,9;2;1;1939;brak;5;13,977
+46;Ochota;4,1;3;3;1964;spółdzielcze;5;8,658
+46;Bielany;8,2;3;3;1950;hipoteczne;2;7,391
+46;Mokotów;7,1;2;1;1980;spółdzielcze;4;7,152
+47;Białołęka;13,4;2;1;1999;spółdzielcze;5;7,276
+47;Rembertów;13,3;2;1;2007;hipoteczne;3;6,382
+48;Praga Płd.;3,8;3;10;1971;hipoteczne;3;6,618
+48;Wola;2,1;3;14;1972;spółdzielcze;2;8,125
+50;Mokotów;5,3;2;2;1955;hipoteczne;5;9,04
+53;Mokotów;4,5;3;6;1955;hipoteczne;4;9,716
+53;Wola;4,3;3;2;1960;hipoteczne;4;7,358
+53;Mokotów;2,3;2;1;1936;brak;NA;10,867
+53;Mokotów;3,9;2;3;2004;brak;5;13,962
+54;Bielany;9,8;3;11;1978;spółdzielcze;5;6,111
+55;Mokotów;3;2;4;1930;spółdzielcze;2;9,454
+56;Ursynów;10,7;3;15;1981;spółdzielcze;4;6,825
+56;Ochota;3,5;2;4;1966;hipoteczne;4;9,16
+57;Ursynów;11,7;2;6;1985;spółdzielcze;5;8,122
+57;Mokotów;4,2;2;1;2007;hipoteczne;3;9,561
+58;Mokotów;4,2;2;NA;2007;brak;3;10,689
+60;Praga Płd.;5,2;3;10;2006;brak;3;7,666
+62;Targówek;9,6;2;10;2001;hipoteczne;5;7,903
+64;Praga Płn.;5,6;4;4;1961;spółdzielcze;4;7,031
+73;Mokotów;4,2;3;2;2007;hipoteczne;3;9,52
+75;Bemowo;8,7;3;3;2001;hipoteczne;5;8
+83;Żoliborz;5,4;5;2;1985;brak;4;10,457
+93;Ursus;9,9;4;4;2000;brak;5;8,591
+105;Bemowo;8,3;4;1;2003;hipoteczne;5;9,666
+105;Białołęka;14,4;3;3;2003;hipoteczne;4;5,904
+122;Ochota;4,8;4;5;2000;brak;5;11,885
+137;Mokotów;6,8;6;2;1995;spółdzielcze;4;8,759
+193;Śródmieście;1,3;6;5;1921;hipoteczne;5;13,471
+17;Śródmieście;1,2;1;1;1950;hipoteczne;4;11,647
+19;Mokotów;4,2;1;5;1972;spółdzielcze;4;10,316
+20;Śródmieście;2,9;1;6;1970;spółdzielcze;4;9,5
+23;Ochota;4,4;1;9;1960;hipoteczne;2;8,783
+23;Wola;5,8;1;5;1980;brak;NA;8,478
+24;Żoliborz;3,8;3;4;1960;spółdzielcze;4;9,167
+26;Praga Płd.;5,2;1;5;2002;hipoteczne;5;10,731
+26,5;Włochy;6;1;4;1960;spółdzielcze;2;7,472
+27;Białołęka;12,9;1;NA;2004;hipoteczne;4;7,407
+30;Śródmieście;2,9;1;3;1960;hipoteczne;4;10
+30;Żoliborz;5,5;1;NA;1960;spółdzielcze;5;8,5
+30;Bielany;9,1;1;3;1975;spółdzielcze;4;7,333
+31,6;Mokotów;6,6;1;9;1980;spółdzielcze;4;7,12
+32;Żoliborz;4,9;1;1;1937;hipoteczne;4;11,25
+32,5;Mokotów;3,6;1;NA;1950;spółdzielcze;4;7,385
+33;Ochota;8,1;1;4;2003;hipoteczne;4;10,303
+37;Śródmieście;2,6;2;2;1952;hipoteczne;2;8,378
+37;Mokotów;3;2;3;1969;spółdzielcze;4;7,973
+38;Wola;1,8;2;9;1980;spółdzielcze;4;7,842
+38;Praga Płd.;4,8;2;1;1970;hipoteczne;4;7,868
+38;Mokotów;4,2;2;2;1972;spółdzielcze;4;7,368
+39;Bielany;7,5;2;4;1995;spółdzielcze;5;8,974
+46;Targówek;8,1;2;7;1979;spółdzielcze;4;6,739
+47;Bielany;6,6;2;7;1978;hipoteczne;4;8,085
+49;Praga Płd.;4;3;6;1972;spółdzielcze;2;6,98
+50;Śródmieście;3,8;2;3;1960;hipoteczne;4;8,1
+52;Ursynów;12,6;2;4;1997;spółdzielcze;3;7,692
+52;Praga Płd.;5,1;2;9;1986;spółdzielcze;4;7,865
+53;Ursynów;10,1;3;1;1981;spółdzielcze;4;7,679
+58;Białołęka;13,4;2;2;1998;spółdzielcze;5;6,897
+60;Mokotów;4;2;4;1950;brak;4;8,167
+61;Wilanów;7,8;2;NA;1978;spółdzielcze;5;6,23
+63;Mokotów;3,4;2;4;1937;hipoteczne;2;11,349
+68;Wawer;15,5;3;1;1999;hipoteczne;5;7,059
+72;Ochota;9;3;2;2000;spółdzielcze;4;7,708
+81;Śródmieście;2,4;3;2;1938;brak;2;10,012
+82;Mokotów;4,5;2;1;1935;brak;3;13,415
+83;Żoliborz;5,4;5;2;1985;brak;4;10,458
+83;Praga Płn.;4,3;3;6;1990;hipoteczne;5;6,506
+85;Ursynów;8,6;4;2;1979;spółdzielcze;4;7,059
+89;Mokotów;6,9;3;6;2005;brak;5;12,921
+107;Mokotów;6,7;4;3;2002;spółdzielcze;5;7,664
+130;Ochota;5;4;1;1999;brak;5;10,846
+24;Wola;5,6;1;4;1973;spółdzielcze;4;8,122
+26;Śródmieście;2,1;1;7;1968;spółdzielcze;4;10,769
+28;Mokotów;5,3;1;2;1976;spółdzielcze;4;9,285
+29;Ochota;3,5;1;7;1967;hipoteczne;4;7,344
+30;Ochota;4;1;1;1920;hipoteczne;5;12,966
+31;Mokotów;6,7;1;7;1974;hipoteczne;4;7,419
+31;Mokotów;5,2;1;2;2001;spółdzielcze;5;10,645
+31;Mokotów;6,7;1;1;1975;hipoteczne;4;8,064
+31;Wilanów;5,8;1;10;1976;spółdzielcze;5;8,387
+31;Mokotów;5,6;1;NA;1992;spółdzielcze;4;8,354
+33;Praga Płd.;6,9;2;5;2004;spółdzielcze;5;10
+33;Mokotów;4,2;1;8;1968;hipoteczne;2;8,03
+33;Mokotów;7,2;1;8;1980;spółdzielcze;4;8,545
+35;Wola;6,4;2;4;1960;hipoteczne;2;7,142
+35;Bemowo;8,6;2;7;1977;spółdzielcze;4;7,485
+36;Ursus;9,1;1;8;2003;hipoteczne;5;8,333
+36;Ochota;4,5;2;3;1970;spółdzielcze;4;7,777
+37;Śródmieście;2;2;5;1960;spółdzielcze;4;7,297
+39;Śródmieście;1,3;2;11;1970;spółdzielcze;4;9,102
+39;Targówek;8,8;2;4;1975;spółdzielcze;4;7,012
+41;Praga Płn.;4,3;1;1;1997;brak;4;7,804
+42;Żoliborz;5,2;2;2;1934;hipoteczne;5;10,809
+43;Żoliborz;5,2;2;1;1937;spółdzielcze;4;8,139
+43;Mokotów;3,9;2;3;1950;spółdzielcze;2;8,837
+44;Ursus;11,5;2;6;2002;hipoteczne;4;7,204
+45;Białołęka;15,9;2;6;2003;hipoteczne;4;7,666
+47;Praga Płd.;3,8;3;9;1970;hipoteczne;4;7,553
+49;Praga Płn.;5,4;2;3;1950;hipoteczne;5;8,469
+50;Śródmieście;3,8;2;3;1960;hipoteczne;4;8,1
+53;Mokotów;6,9;3;NA;1973;spółdzielcze;5;8,339
+54;Białołęka;14,9;2;3;2006;hipoteczne;5;7,826
+55;Białołęka;13,3;2;NA;2005;hipoteczne;5;6,774
+56;Mokotów;7;3;4;1975;brak;5;7,589
+56;Mokotów;4,5;2;4;2002;spółdzielcze;5;13,839
+56;Śródmieście;2;2;4;1935;hipoteczne;4;13,716
+57;Mokotów;4,2;2;3;2007;hipoteczne;3;10
+59;Praga Płd.;6,5;3;8;1984;spółdzielcze;2;5,872
+61;Praga Płd.;3,4;2;2;1938;hipoteczne;2;10,163
+61;Bemowo;9,5;3;NA;1979;spółdzielcze;4;6,442
+62;Wola;6,2;3;1;1983;spółdzielcze;4;7,983
+62;Ursynów;12,1;3;2;2004;hipoteczne;5;10,564
+67;Bielany;6,7;2;5;2006;hipoteczne;3;11,089
+67;Praga Płd.;7,3;3;5;1995;spółdzielcze;4;6,715
+70;Bielany;6,7;3;3;2006;hipoteczne;3;9,857
+73;Mokotów;4,2;3;4;2007;hipoteczne;3;9,383
+74;Żoliborz;5,2;3;NA;1955;spółdzielcze;2;7,77
+107;Ursynów;10,8;3;3;1999;spółdzielcze;5;10,794
+113;Śródmieście;6,9;4;3;2007;brak;3;15,752
+186;Mokotów;5,1;4;10;2000;hipoteczne;5;11,559
+20;Śródmieście;1,4;1;7;1970;hipoteczne;2;10,5
+23;Śródmieście;2;1;NA;1964;spółdzielcze;4;10,435
+26;Bielany;8,2;1;6;1964;hipoteczne;2;8,385
+27;Ochota;4;1;2;1964;spółdzielcze;2;8,259
+27;Wola;2,1;1;2;1979;spółdzielcze;4;9,074
+28;Ochota;4;1;3;1963;spółdzielcze;2;7,429
+29;Ochota;5,4;1;10;1972;spółdzielcze;4;7,241
+29;Praga Płd.;6,9;1;NA;1936;hipoteczne;2;4,032
+33;Bemowo;8,8;1;3;2002;hipoteczne;4;8,818
+35;Bemowo;8,6;2;3;1978;spółdzielcze;4;7,429
+35;Białołęka;15,4;1;4;2001;hipoteczne;4;6,286
+35;Bemowo;7,5;2;1;2005;hipoteczne;4;10,734
+36;Praga Płd.;5,6;1;4;1965;hipoteczne;4;7
+37;Mokotów;4,2;2;7;1972;spółdzielcze;4;8,108
+37;Białołęka;14,8;1;7;2005;hipoteczne;4;6,757
+37;Żoliborz;4,3;2;1;1969;spółdzielcze;4;8,168
+38;Praga Płd.;5,3;2;NA;1971;spółdzielcze;4;6,579
+38;Praga Płd.;6,8;2;NA;1970;hipoteczne;2;6,526
+38;Ochota;4,2;1;5;2001;hipoteczne;5;10,445
+42;Mokotów;6,8;2;1;1970;spółdzielcze;NA;7,619
+48;Mokotów;4,2;2;4;2007;hipoteczne;3;10,313
+50;Bemowo;8,2;2;3;1982;spółdzielcze;4;7,29
+54;Praga Płd.;6,5;2;1;1999;brak;NA;9,537
+54;Bielany;9,2;3;5;1976;spółdzielcze;4;7,259
+55;Mokotów;5,6;2;1;2008;hipoteczne;3;10,182
+56;Mokotów;4;2;2;2007;brak;NA;13,125
+56;Śródmieście;3,5;2;2;2005;brak;NA;13,75
+56;Mokotów;4,2;2;3;2007;hipoteczne;3;10,089
+57;Mokotów;6,7;3;2;1978;spółdzielcze;2;6,544
+57;Ursynów;12,6;2;NA;2001;hipoteczne;5;9,649
+57;Bielany;7,4;3;NA;1960;spółdzielcze;2;6,842
+57;Mokotów;7,3;3;2;1976;spółdzielcze;4;8,042
+63;Ursynów;8,6;3;3;1982;spółdzielcze;4;7,365
+63;Mokotów;4,2;3;3;2007;hipoteczne;3;9,619
+67;Mokotów;7,1;4;1;1976;spółdzielcze;4;7,675
+73;Mokotów;4,2;3;3;2007;hipoteczne;3;9,452
+73;Mokotów;4,2;3;4;2007;hipoteczne;3;9,452
+74;Mokotów;4,2;3;2;2007;hipoteczne;3;8,608
+82;Mokotów;4,5;2;1;1935;brak;NA;11,341
+82;Ochota;5;3;NA;2001;hipoteczne;5;12,712
+83;Mokotów;6,7;3;2;1997;spółdzielcze;5;8,614
+85;Bemowo;8,8;3;1;2005;hipoteczne;5;10,824
+111;Wola;3,2;4;6;2002;hipoteczne;5;16,007
+125;Wilanów;8,3;3;4;1997;brak;5;7,992
+160;Mokotów;4,1;4;4;2002;brak;NA;15,938
+20;Śródmieście;1,4;1;7;1970;hipoteczne;2;10,5
+26;Bielany;8,2;1;6;1964;hipoteczne;2;8,384
+27;Wola;1,7;1;1;1962;spółdzielcze;4;8,518
+28;Mokotów;5,3;1;1;1950;hipoteczne;2;8,75
+28;Mokotów;5,5;2;4;1968;spółdzielcze;4;8,75
+30;Śródmieście;0,9;1;1;1952;hipoteczne;4;10,666
+32;Mokotów;4,2;2;3;2007;hipoteczne;3;12,25
+32;Śródmieście;2,2;1;7;1961;hipoteczne;5;9,062
+35;Bemowo;8,6;2;3;1978;spółdzielcze;4;7,428
+36;Wola;1,8;2;6;1965;hipoteczne;4;6,944
+36;Śródmieście;1;2;5;1968;spółdzielcze;4;10
+36;Praga Płd.;3,9;2;5;1965;spółdzielcze;4;8,333
+37;Białołęka;14,8;1;7;2005;hipoteczne;4;6,756
+37;Mokotów;4,2;2;7;1972;spółdzielcze;4;8,108
+37;Żoliborz;4,1;2;1;1969;spółdzielcze;4;7,162
+37;Żoliborz;6,3;2;8;1972;spółdzielcze;4;7,54
+38;Praga Płd.;5,3;2;NA;1971;spółdzielcze;4;6,578
+40;Mokotów;3,3;2;1;1925;hipoteczne;5;11,95
+40;Bielany;6,5;2;3;1970;hipoteczne;4;8
+41;Praga Płn.;4,3;1;1;1997;brak;4;7,804
+41;Mokotów;5,8;2;3;1961;spółdzielcze;4;7,56
+42;Mokotów;6,8;2;1;1970;spółdzielcze;NA;7,619
+44;Śródmieście;2;2;3;1966;spółdzielcze;5;10
+44;Śródmieście;2,6;2;3;1966;hipoteczne;5;10,903
+47;Ursynów;9;2;5;1978;spółdzielcze;4;7,659
+48;Wola;6,9;2;1;2007;brak;3;8,312
+50;Wola;3,9;2;3;1952;hipoteczne;5;9,227
+53;Mokotów;5,7;2;10;2005;hipoteczne;4;9,49
+54;Bielany;9,2;3;5;1976;spółdzielcze;4;7,259
+56;Żoliborz;4,9;3;3;1938;brak;5;11,428
+56;Żoliborz;5,7;2;4;1936;hipoteczne;5;11,071
+57;Mokotów;6,7;3;2;1978;spółdzielcze;2;6,543
+73;Wawer;12,9;3;NA;2003;hipoteczne;5;9,109
+75;Praga Płd.;5,7;3;3;2001;brak;5;8,933
+76;Bielany;7,5;3;NA;1999;spółdzielcze;5;8,815
+82;Mokotów;4,1;3;1;2005;hipoteczne;5;13,414
+83;Mokotów;6,7;3;2;1997;spółdzielcze;5;8,614
+85;Wilanów;9,7;3;2;2006;brak;5;8,235
+91;Mokotów;4,2;3;1;2006;brak;5;10,318
+130;Śródmieście;2,4;4;2;2006;brak;5;10,5
+20;Wola;5,8;1;1;1960;hipoteczne;NA;8,6
+21;Mokotów;3,1;1;8;1968;spółdzielcze;5;10,476
+23;Mokotów;7,8;1;2;1970;hipoteczne;4;8,312
+23;Praga Płd.;6,8;1;4;1960;spółdzielcze;4;8,596
+23;Praga Płd.;5,8;1;3;1985;hipoteczne;4;8,069
+24;Bielany;9;1;4;1970;hipoteczne;4;9
+26;Bielany;8,2;1;2;1970;hipoteczne;5;8,654
+27;Bielany;8;1;11;1975;brak;4;8,148
+27;Mokotów;5,3;1;1;1960;hipoteczne;4;8,889
+28;Śródmieście;2;1;6;2003;hipoteczne;5;13,571
+28;Wola;2,1;2;15;1975;spółdzielcze;4;9,179
+30;Bielany;8;1;4;1974;spółdzielcze;2;7
+31;Bemowo;8,4;1;6;1985;spółdzielcze;4;8,129
+31;Bielany;9,5;1;6;2000;spółdzielcze;NA;9,516
+32;Białołęka;14,8;1;1;2003;hipoteczne;4;7,904
+34;Mokotów;6,7;1;3;2002;hipoteczne;4;10,294
+35;Śródmieście;2,5;1;NA;1935;hipoteczne;4;8,429
+36;Białołęka;13,4;2;2;1999;spółdzielcze;4;8,197
+36;Śródmieście;2,5;2;NA;1994;brak;NA;12,222
+37;Targówek;9,5;2;7;1969;spółdzielcze;5;6,622
+37;Wola;2,2;2;7;1973;spółdzielcze;5;8,838
+38;Ochota;3,4;1;NA;1952;hipoteczne;5;8,854
+41;Wilanów;9,7;1;1;2007;hipoteczne;3;8,659
+47;Mokotów;5,3;2;3;2006;hipoteczne;5;13,347
+47;Żoliborz;6,3;3;2;1967;spółdzielcze;2;7,766
+48;Mokotów;6,2;2;5;1974;spółdzielcze;4;8,542
+48;Ursus;11,6;3;1;1977;spółdzielcze;4;6,906
+49;Bielany;7,7;3;3;1968;spółdzielcze;NA;7,071
+49;Praga Płd.;3,8;2;NA;1970;hipoteczne;NA;7,347
+50;Bemowo;8;2;3;1978;spółdzielcze;4;7,9
+51;Śródmieście;0,7;2;1;1970;brak;5;12,941
+52;Mokotów;5,7;3;3;1974;spółdzielcze;5;7,308
+52;Ochota;3,5;2;2;1956;hipoteczne;2;7,5
+57;Mokotów;4,8;2;2;2006;brak;3;10,211
+58;Bielany;8,7;3;NA;1967;hipoteczne;2;6,552
+58;Praga Płd.;5,6;2;2;2004;brak;5;8,19
+59;Ursynów;11,9;3;5;1980;spółdzielcze;4;7,345
+62;Mokotów;6,2;2;3;2004;hipoteczne;5;9,927
+62;Praga Płd.;6,9;3;8;1978;spółdzielcze;4;5,806
+68;Włochy;8,5;3;NA;2001;spółdzielcze;4;6,912
+70;Praga Płd.;6,9;4;4;1978;spółdzielcze;4;6,857
+77;Ochota;3,4;3;1;2000;hipoteczne;NA;10,519
+82;Mokotów;4,5;2;1;1935;brak;3;11,341
+88;Mokotów;5,6;3;7;2000;brak;5;9,83
+106;Śródmieście;0,45;3;2;1930;hipoteczne;4;7,83
+132;Wilanów;9,7;5;3;2006;hipoteczne;3;7,955
+24;Ochota;4,4;1;7;1970;hipoteczne;5;8,75
+24;Praga Płn.;5,6;1;2;1965;spółdzielcze;2;7,083
+26;Wola;2,1;2;15;1973;spółdzielcze;4;10,115
+27;Śródmieście;2,6;1;9;1968;spółdzielcze;5;10,37
+30;Mokotów;4,5;1;1;1935;hipoteczne;5;10
+30;Mokotów;6,7;1;4;1975;spółdzielcze;2;8,267
+31;Mokotów;5,7;1;3;1980;spółdzielcze;4;8
+31;Praga Płd.;4,7;1;7;1975;hipoteczne;2;8,065
+33;Mokotów;5,4;1;3;1968;hipoteczne;4;9,242
+35;Mokotów;5,7;1;NA;2006;brak;3;10,563
+36;Białołęka;14,8;1;NA;2005;hipoteczne;4;6,639
+37;Bielany;6,7;2;5;2006;hipoteczne;3;10,164
+37;Włochy;5,9;2;3;1957;spółdzielcze;4;7,514
+37;Mokotów;4;2;3;1970;spółdzielcze;5;7,838
+37;Wola;6,4;2;8;1980;spółdzielcze;NA;6,757
+39;Bielany;6,7;1;5;2006;hipoteczne;3;8,198
+40;Mokotów;4,2;1;NA;1955;hipoteczne;4;8,375
+45;Ursynów;9,5;2;3;2007;hipoteczne;3;8,278
+47;Ursynów;11,7;2;7;1985;spółdzielcze;5;7,872
+49;Mokotów;5,3;2;NA;1950;hipoteczne;NA;7,143
+54;Białołęka;15,4;3;NA;2002;hipoteczne;5;8,241
+59;Mokotów;7,9;3;NA;1990;brak;5;8,983
+63;Ursynów;10,1;3;NA;1985;spółdzielcze;5;7,476
+72;Śródmieście;2,8;3;3;1948;hipoteczne;5;13,333
+94;Żoliborz;4,9;5;NA;1936;brak;4;10,809
+102;Białołęka;14,7;4;3;1998;hipoteczne;5;7,624
+175;Mokotów;4,1;6;2;2006;brak;3;18,286
+17;Ursus;9,9;1;NA;1965;spółdzielcze;2;7,933
+31;Śródmieście;2,7;1;5;1950;hipoteczne;NA;12,078
+33;Bemowo;8;1;2;1981;spółdzielcze;4;8,303
+33;Praga Płd.;5,2;1;5;2007;spółdzielcze;4;8,788
+35;Mokotów;2,8;1;1;1936;spółdzielcze;4;9,743
+35;Mokotów;3,9;2;8;1963;spółdzielcze;NA;9
+38;Mokotów;6,3;2;9;1975;spółdzielcze;4;8,505
+38;Bielany;6,7;1;4;2006;hipoteczne;3;8,816
+40;Śródmieście;0,9;2;1;1950;hipoteczne;5;16,25
+40;Bemowo;6,4;1;4;2007;hipoteczne;3;8,5
+41;Śródmieście;2,9;2;1;1968;spółdzielcze;NA;10,366
+44;Bemowo;7,6;2;3;2005;hipoteczne;4;11,48
+46;Białołęka;15,9;2;5;2001;hipoteczne;5;6,63
+46;Targówek;10;2;5;1975;spółdzielcze;2;5,944
+47;Ochota;5,3;3;1;1969;spółdzielcze;5;9,032
+47;Bemowo;6,4;2;4;2007;hipoteczne;3;7,673
+48;Wawer;11,5;2;8;1986;hipoteczne;5;6,5
+49;Ochota;3,5;3;3;1962;hipoteczne;2;8,265
+50;Ursynów;12,1;2;1;2006;hipoteczne;3;9,172
+52;Mokotów;5,4;2;1;1960;spółdzielcze;4;9,904
+53;Ochota;5,6;2;1;1996;brak;NA;8,547
+55;Śródmieście;2,2;3;3;1960;hipoteczne;4;12,818
+55;Ochota;5,6;2;1;1999;spółdzielcze;4;9,727
+55;Wola;6,9;2;1;2000;hipoteczne;4;9,273
+56;Żoliborz;9,3;2;NA;2003;hipoteczne;NA;10,545
+56;Mokotów;4,5;2;2;1992;spółdzielcze;NA;9,464
+56;Bielany;6,7;2;4;2006;hipoteczne;3;10
+57;Mokotów;7,2;3;9;1980;spółdzielcze;NA;9,304
+60;Białołęka;12,6;3;5;1987;spółdzielcze;5;6,5
+60;Targówek;9,3;3;7;1975;spółdzielcze;4;6,184
+61;Mokotów;3,7;2;NA;1931;brak;2;6,803
+63;Bemowo;9;3;NA;1984;brak;NA;6,349
+63;Ursynów;11,7;3;1;1988;brak;NA;6,159
+65;Mokotów;4,5;3;5;1993;spółdzielcze;NA;7,385
+66;Ochota;5,6;3;1;1999;spółdzielcze;4;10,591
+68;Ursynów;12;3;3;1986;hipoteczne;4;7,591
+70;Bielany;6,7;3;5;2006;hipoteczne;3;9,692
+71;Białołęka;14,6;3;4;2000;hipoteczne;4;7,394
+72;Mokotów;7,3;4;1;1976;spółdzielcze;4;8,666
+72;Praga Płd.;7;2;5;2006;spółdzielcze;5;9,724
+73;Ochota;5,6;3;3;2000;hipoteczne;4;9,824
+82;Białołęka;14,8;4;3;2005;hipoteczne;5;7,439
+94;Ochota;5,6;3;2;1996;brak;NA;8,798
+98;Mokotów;3,9;3;1;2004;hipoteczne;4;11,735
+100;Ochota;5,6;4;2;1996;brak;NA;8,79
+124;Mokotów;5,3;4;1;2004;spółdzielcze;4;12,805
+145;Mokotów;6,9;4;7;2004;brak;NA;9,497
+20;Żoliborz;6,3;1;8;1972;spółdzielcze;4;8,95
+22;Śródmieście;2,2;1;2;1960;hipoteczne;4;15,318
+22;Ochota;3,5;1;3;1965;spółdzielcze;2;8,091
+22;Wola;5,7;1;7;1977;spółdzielcze;2;8,091
+23;Śródmieście;2,6;1;4;1952;hipoteczne;4;9,783
+23;Żoliborz;3,8;1;2;1964;spółdzielcze;2;10,213
+24;Targówek;10,2;1;3;1970;hipoteczne;5;8,333
+26;Śródmieście;2;1;2;1965;spółdzielcze;4;10,5
+26;Wola;2,1;1;5;1970;spółdzielcze;4;9,231
+27;Śródmieście;0,16;1;4;1955;hipoteczne;4;10,185
+27;Wola;5,7;1;1;1960;hipoteczne;5;8,611
+30;Śródmieście;2,2;1;3;1955;hipoteczne;4;9,167
+35;Śródmieście;2,4;2;2;1960;spółdzielcze;4;11,836
+37;Śródmieście;2,7;2;2;1958;spółdzielcze;4;10,691
+37;Ursynów;9,5;2;4;1988;spółdzielcze;4;9,811
+40;Wola;2,1;2;8;1975;spółdzielcze;4;7,7
+43;Praga Płd.;5,7;2;1;1954;hipoteczne;4;8,07
+46;Praga Płd.;5,6;2;3;2000;brak;2;6,652
+46;Mokotów;7,3;2;7;1980;spółdzielcze;4;8,261
+47;Mokotów;7,4;2;1;1974;hipoteczne;5;7,638
+47;Śródmieście;2;2;10;1970;spółdzielcze;5;9,553
+48;Żoliborz;6,3;3;2;1979;spółdzielcze;2;7,708
+48;Ochota;6,1;2;NA;2000;spółdzielcze;4;9,792
+49;Ursynów;13,3;2;NA;1996;spółdzielcze;NA;9,429
+50;Wola;6,9;3;5;1973;spółdzielcze;NA;7,8
+51;Mokotów;4,1;2;2;2002;spółdzielcze;5;12,745
+52;Ursynów;10,9;2;8;1981;spółdzielcze;4;6,981
+53;Praga Płd.;7,5;3;3;1965;spółdzielcze;NA;6,729
+53;Mokotów;3,9;2;NA;1953;hipoteczne;4;8,385
+55;Targówek;10;3;10;1977;spółdzielcze;4;6,545
+55;Praga Płd.;6,8;2;2;1961;hipoteczne;5;8,273
+56;Bielany;10,7;3;NA;2001;hipoteczne;NA;9,821
+56;Mokotów;4,5;2;2;1992;spółdzielcze;4;9,464
+57;Ursus;9,6;2;4;2001;hipoteczne;5;9,211
+58;Praga Płd.;5,6;2;2;2004;spółdzielcze;5;8,103
+60;Mokotów;5,6;2;6;2006;spółdzielcze;4;11,083
+61;Bielany;7;3;10;1988;spółdzielcze;2;6,863
+63;Ochota;1,4;2;1;1950;spółdzielcze;2;10,712
+64;Ursynów;13,4;2;1;2005;hipoteczne;5;10,886
+64;Praga Płd.;6,5;3;15;2007;spółdzielcze;4;9,844
+70;Ursynów;9,3;4;NA;1982;spółdzielcze;4;7,571
+72;Ursynów;10,8;3;1;2001;hipoteczne;5;11,361
+76;Ursynów;12,9;3;3;2002;hipoteczne;5;10,921
+81;Śródmieście;2,9;3;2;1946;hipoteczne;5;12,716
+81;Praga Płd.;8,7;2;NA;1998;hipoteczne;4;3,683
+83;Mokotów;6;3;2;1999;hipoteczne;5;10,12
+88;Mokotów;6,9;3;8;2007;hipoteczne;3;10,6
+105;Białołęka;12,2;5;3;1999;spółdzielcze;4;6,143
+163;Ursynów;9,6;4;1;1995;spółdzielcze;5;9,202
+18;Ochota;5,3;1;3;2000;spółdzielcze;NA;9,282
+19;Śródmieście;2;1;9;1966;spółdzielcze;4;11
+24;Mokotów;3,9;1;2;1980;spółdzielcze;NA;9,208
+25;Mokotów;5;1;1;1960;hipoteczne;2;7,782
+28;Mokotów;2,6;1;5;1970;spółdzielcze;5;13,286
+28;Mokotów;2,6;1;11;1968;spółdzielcze;4;11,982
+28;Wola;3,2;1;3;1965;spółdzielcze;NA;8,866
+29;Bemowo;8,1;1;3;2002;spółdzielcze;NA;10,205
+30;Wola;6,2;2;6;1970;spółdzielcze;NA;8,041
+32;Targówek;7,2;1;NA;NA;spółdzielcze;NA;6,156
+33;Praga Płd.;7,1;1;9;1980;spółdzielcze;NA;8,631
+35;Praga Płd.;2,7;2;4;1963;spółdzielcze;4;7,571
+36;Bemowo;9,5;2;NA;1978;spółdzielcze;NA;6,806
+36;Bemowo;9,5;2;3;1978;spółdzielcze;NA;8,611
+38;Bielany;9,2;2;NA;1972;spółdzielcze;NA;7,5
+38;Śródmieście;3,7;1;1;1939;hipoteczne;4;9,474
+38;Włochy;7,8;2;6;2003;hipoteczne;4;9,895
+38;Śródmieście;0,16;1;4;1955;hipoteczne;2;9,553
+39;Ursynów;10,9;2;4;2006;spółdzielcze;5;10,698
+39;Wola;6,1;2;6;1969;spółdzielcze;NA;7,722
+44;Ursynów;11,7;2;3;2000;spółdzielcze;NA;9,396
+44;Mokotów;3,1;2;4;1963;spółdzielcze;4;8,09
+45;Bemowo;9,5;2;6;1978;spółdzielcze;4;7,222
+46;Praga Płd.;5,6;2;3;2000;hipoteczne;4;6,522
+47;Mokotów;6;3;3;1970;hipoteczne;2;7,278
+48;Ursus;9,9;2;4;2001;hipoteczne;NA;8,75
+48;Ursus;11,6;3;4;1980;spółdzielcze;NA;6,763
+48;Bielany;7,2;3;3;1980;spółdzielcze;NA;7,292
+48;Ursus;11,5;3;6;1977;spółdzielcze;NA;6,458
+48;Bielany;9,8;2;3;2000;hipoteczne;NA;9,229
+48;Mokotów;4,2;2;1;2007;hipoteczne;3;10,75
+48;Białołęka;12,9;2;2;2007;hipoteczne;3;6,379
+50;Praga Płn.;6;3;3;1956;hipoteczne;NA;6,97
+51;Bielany;10,7;2;2;2001;spółdzielcze;NA;8,392
+51;Śródmieście;2,4;2;3;1937;spółdzielcze;NA;10,588
+51;Bemowo;8,4;3;6;1975;spółdzielcze;4;6,796
+51;Praga Płd.;8,1;2;4;2000;spółdzielcze;4;8,317
+53;Mokotów;5,6;2;4;2007;hipoteczne;NA;10,06
+53;Ursus;9,9;3;3;2003;spółdzielcze;3;9,285
+58;Ursynów;12;3;NA;1986;spółdzielcze;4;7,577
+62;Mokotów;2,8;2;2;1950;hipoteczne;5;12,242
+64;Białołęka;13,7;3;9;1992;spółdzielcze;2;5,625
+64;Mokotów;7,5;4;4;1974;spółdzielcze;5;7,609
+71;Mokotów;6,7;3;9;1970;hipoteczne;4;5,533
+72;Mokotów;4,1;3;4;2007;hipoteczne;3;11,846
+74;Ursynów;11,5;4;5;1984;spółdzielcze;4;6,622
+80;Bemowo;8,8;4;3;1985;spółdzielcze;NA;7,238
+80;Białołęka;13,1;3;3;2001;hipoteczne;4;6,25
+88;Śródmieście;2,6;3;2;2001;hipoteczne;5;10
+112;Bielany;7,5;4;4;1999;spółdzielcze;NA;6,696
+20;Wola;2,6;1;2;1955;hipoteczne;2;10,742
+20;Śródmieście;2,9;1;NA;2000;własnościowe;5;11,5
+23;Śródmieście;1,7;1;1;2000;hipoteczne;5;11,304
+24;Ochota;4,4;1;3;1975;hipoteczne;5;10
+25;Praga Płn.;5,6;1;3;1970;spółdzielcze;2;7,2
+25;Mokotów;3,7;1;2;1960;spółdzielcze;4;10,28
+28;Żoliborz;5,3;1;NA;1968;spółdzielcze;5;8,772
+29;Żoliborz;5,5;1;NA;2000;spółdzielcze;2;8,621
+30;Praga Płn.;5,7;1;2;2000;hipoteczne;5;8,5
+31;Ursynów;12,9;2;1;2002;brak;4;9,355
+31;Bemowo;8,2;1;3;2005;hipoteczne;NA;9,355
+31;Żoliborz;6,6;2;1;1984;własnościowe;NA;9,135
+31;Wola;4,3;1;1;1955;hipoteczne;2;7,372
+32;Mokotów;5,6;1;NA;1991;spółdzielcze;NA;8,219
+34;Żoliborz;5,2;NA;3;1934;hipoteczne;2;9,724
+35;Śródmieście;2,2;1;3;1954;hipoteczne;5;10,091
+35;Bielany;7,1;2;2;1965;spółdzielcze;4;8,543
+36;Ochota;2,2;1;3;1908;hipoteczne;2;9,809
+36;Praga Płd.;6,3;2;NA;1965;spółdzielcze;2;7,333
+37;Bielany;9;2;2;1967;spółdzielcze;5;8,324
+37;Ursynów;10,9;2;7;2007;hipoteczne;NA;11,054
+37;Praga Płn.;9,6;2;3;1975;spółdzielcze;2;6,86
+38;Ursynów;12,1;2;3;2001;spółdzielcze;5;9,612
+38;Żoliborz;5,2;2;2;1964;spółdzielcze;2;9,921
+41;Wesoła;11,7;2;1;2005;hipoteczne;5;7,805
+42;Bielany;9,5;2;7;1976;własnościowe;2;7,762
+44;Ursynów;13,3;2;5;1998;spółdzielcze;5;8,837
+47;Mokotów;3;2;1;1950;hipoteczne;4;9,468
+48;Śródmieście;2,1;3;10;1975;spółdzielcze;4;9,463
+48;Ochota;6,1;2;NA;NA;brak;5;9,792
+50;Bemowo;7,7;2;5;2006;hipoteczne;5;12,8
+50;Wilanów;7,6;2;8;1976;spółdzielcze;NA;7,24
+55;Ursynów;10,3;2;2;2000;spółdzielcze;NA;9,094
+56;Białołęka;15,4;3;2;2001;hipoteczne;NA;7,143
+58;Ursynów;9,1;3;4;1985;spółdzielcze;4;8,474
+58;Wola;4,1;3;2;1955;brak;NA;7,397
+59;Praga Płd.;6,4;3;NA;2000;hipoteczne;4;8,151
+60;Ursynów;10,8;2;2;2000;własnościowe;3;8,833
+62;Mokotów;4;3;3;1947;brak;NA;8,871
+63;Białołęka;13,7;3;5;1992;spółdzielcze;4;6,918
+65;Mokotów;3,5;2;2;1936;hipoteczne;5;9,954
+65;Śródmieście;2;2;3;1932;hipoteczne;NA;7,615
+67;Ursynów;13,2;3;NA;2004;hipoteczne;NA;9,851
+77;Wawer;11,4;3;1;2002;hipoteczne;5;10,13
+77;Bemowo;7,7;3;NA;2005;hipoteczne;NA;9,226
+80;Mokotów;3,5;3;5;2004;hipoteczne;NA;11,688
+82;Ursynów;10,9;3;NA;2003;hipoteczne;NA;10,427
+88;Mokotów;3;3;3;2001;hipoteczne;5;13,636
+97;Śródmieście;2,6;3;10;2000;spółdzielcze;NA;13,744
+100;Śródmieście;1,7;3;4;1999;spółdzielcze;5;10,2
+101;Ochota;4;4;NA;1994;hipoteczne;NA;6,089
+115;Ochota;5,6;5;3;1998;spółdzielcze;NA;8,861
+19;Ochota;4,3;1;1;1968;spółdzielcze;NA;10,354
+22;Mokotów;3,9;1;1;1965;hipoteczne;NA;9,309
+27;Śródmieście;1,2;1;5;1960;spółdzielcze;4;11,492
+27;Mokotów;4,2;1;1;1972;spółdzielcze;2;7,037
+31;Śródmieście;1,8;1;6;1958;hipoteczne;4;11,29
+31;Mokotów;6,6;1;7;1975;hipoteczne;4;8,419
+31;Wola;4,3;1;1;NA;hipoteczne;2;7,419
+32;Targówek;7,2;1;4;1983;hipoteczne;2;6,552
+33;Śródmieście;2,2;1;1;1954;hipoteczne;2;8,636
+33;Śródmieście;3,4;1;3;2007;hipoteczne;3;10,303
+33;Białołęka;12,9;1;3;2003;hipoteczne;5;8,182
+33;Ursynów;11,2;1;1;2001;hipoteczne;4;9,673
+35;Targówek;7,3;1;5;1978;spółdzielcze;2;6,829
+36;Bemowo;9,5;2;1;1970;spółdzielcze;NA;7,639
+37;Ochota;4,4;2;4;1969;spółdzielcze;4;9,459
+38;Śródmieście;0,16;1;4;1952;hipoteczne;4;9,553
+38;Praga Płd.;4,8;2;2;1968;spółdzielcze;NA;7,474
+38;Wola;3,9;2;5;1975;spółdzielcze;5;8,421
+39;Wola;2,1;2;6;1970;spółdzielcze;4;8,333
+41;Ursus;11,7;2;1;NA;hipoteczne;4;8,024
+41;Włochy;7,8;2;2;2002;hipoteczne;5;9,39
+42;Żoliborz;9,5;2;7;NA;hipoteczne;2;7,762
+43;Ochota;3,4;2;1;1955;hipoteczne;2;7,512
+44;Śródmieście;2;2;4;1967;spółdzielcze;4;9,477
+44;Żoliborz;5,3;2;6;1965;spółdzielcze;4;9,205
+45;Bielany;9,1;2;5;1983;spółdzielcze;5;8,289
+45;Bemowo;8,8;2;2;2007;hipoteczne;3;9,111
+46;Praga Płd.;6,9;2;NA;1974;spółdzielcze;5;7,217
+46;Mokotów;5,3;2;4;1950;hipoteczne;4;8,925
+46;Mokotów;5,8;3;4;1979;spółdzielcze;NA;9,12
+48;Praga Płd.;4,4;3;8;1960;hipoteczne;4;9,375
+48;Bemowo;7,5;2;NA;2003;hipoteczne;5;10,208
+49;Ochota;5;2;10;1975;hipoteczne;NA;8,265
+49;Białołęka;13,2;2;NA;2006;hipoteczne;5;6,673
+49;Żoliborz;4,9;2;10;1980;spółdzielcze;4;7,258
+52;Śródmieście;1,4;3;4;1953;hipoteczne;4;9,038
+52;Mokotów;5,6;3;3;1995;spółdzielcze;5;7,365
+54;Bemowo;8,8;2;4;1985;spółdzielcze;4;7,093
+57;Śródmieście;0,35;3;1;1911;hipoteczne;NA;10,877
+57;Praga Płd.;6,5;2;12;2001;spółdzielcze;5;8,404
+60;Wola;6,4;2;1;1994;hipoteczne;4;8,8
+64;Białołęka;12,9;3;NA;2003;hipoteczne;5;6,719
+66;Praga Płd.;5,6;3;5;2005;hipoteczne;5;9,848
+69;Bemowo;6,4;3;3;2002;hipoteczne;NA;9,232
+71;Śródmieście;1,2;2;5;NA;hipoteczne;2;12,535
+71;Ochota;2,1;2;1;1926;hipoteczne;NA;9,289
+72;Praga Płd.;5,9;3;14;1985;spółdzielcze;5;6,042
+73;Ochota;8,1;3;2;2004;hipoteczne;5;10,068
+81;Śródmieście;0,9;3;1;1948;hipoteczne;2;21,605
+86;Bemowo;7,5;4;3;2005;hipoteczne;NA;8,14
+89;Ursus;11,4;3;NA;1938;hipoteczne;4;5,562
+102;Żoliborz;7;3;1;2000;hipoteczne;4;8,908
+110;Praga Płd.;4,6;4;4;1993;spółdzielcze;4;6,427
+117;Śródmieście;1,2;3;2;1912;hipoteczne;4;11,538
+127;Śródmieście;2,6;4;9;2000;hipoteczne;5;8,49
+130;Mokotów;5,1;3;4;2000;hipoteczne;5;10,923
+147;Śródmieście;2,4;3;10;1999;spółdzielcze;5;11,565
+160;Mokotów;4,2;4;5;2003;hipoteczne;5;10,375
